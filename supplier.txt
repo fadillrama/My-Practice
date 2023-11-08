@@ -2,3 +2,5 @@ file supplier .
 tambahan supplier .
 
 delete supplier.
+
+detail supplier.
